@@ -16,7 +16,6 @@
 
 - ⚡ Fun fact **When I'm not coding, I unwind by playing the flute.**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
