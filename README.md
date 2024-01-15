@@ -2,7 +2,7 @@
 <h1 align="center">### Hi there, I'm Naman! 👋</h1>
 <h3 align="center">A passionate Python/Django Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=namanthakur22&theme=onedark" alt="namanthakur22" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=namanthakur22&theme=onedark&no-bg=true" alt="namanthakur22" /></a> </p>
 
 - 🔭 I’m currently working on **turning a seemingly stupid idea into something**
 
