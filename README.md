@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=namanthakur22&theme=onedark&no-bg=true" alt="namanthakur22" /></a> </p>
 
-- 🔭 I’m currently working on **turning a seemingly stupid idea into something**
+- 🔭 I’m currently working on **turning a seemingly stupid idea into something**, visit <a href="http://quickbotify.com/">QuickBotify</a>
 
 - 🌱 I’m currently learning **Solidity, Blockchain**
 
