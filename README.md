@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **turning a seemingly stupid idea into something**, visit <a href="http://quickbotify.com/">QuickBotify</a>
 
-- 🌱 I’m currently learning **Solidity, Blockchain**
+- 🌱 I’m currently learning **Fast API, React**
 
 - 👯 I’m looking to collaborate on **any Django-related project. Let's build something awesome together!**
 
